@@ -1,4 +1,4 @@
-# LuckyBird
+# LuckyBird (2022)
 Code created by Julia Dudlak and Samir Sanchez Tejada.
 
 Modified Flappy Bird in C++ for an external Arduino arcade display. 
